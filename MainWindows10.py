@@ -148,11 +148,7 @@ class MainWindow():
        
        
        
-       
-       
-       
-#        self.passMsg = "Ident3"+str(submitCNT)
-#        self.errWin()
+
        
         self.analysis = TextBlob(self.txtvar)
        
