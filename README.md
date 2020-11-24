@@ -1,0 +1,2 @@
+# Ticket-Sentiment-Analysis
+Freshdesk is a customer support platform in which customer can raise tickets related to issue/queries. Sentiments of ticket conversation is important and it shows the customer satisfaction. Based of polarity and subjectivity we can predict, till some extend, what rating customer will give(good, average and poor). This application uses tkinter, textblob and NLTK library of Python and it is a desktop application which can predict the customer rating of Freshdesk Ticket.
