@@ -2,6 +2,12 @@
 
 INTRODUCTION:- Freshdesk is a customer support platform in which customer can raise tickets related to issue/queries. Sentiments of ticket conversation is important and it shows the customer satisfaction. Based on polarity and subjectivity we can predict, till some extend, what rating customer will give(good, average and poor). This application uses tkinter, textblob and NLTK library of Python and it is a desktop application which can predict the customer rating of Freshdesk Ticket.
 
+![Main Window](./images/ScreenshotMain.PNG "Main Window")
+
+After Running -
+![Main Window](./images/ScreenshotMainRun.PNG "Main Window")
+
+
 MENU OPTIONS:- Below are some available menu options -
  1. FILE - There is only one option 'Exit' under File Menu. This option will close the application.
  2. ANALYSIS - Under this menu there are two options available 'Text Analysis' and 'Fetch Ticket Details'. Only one option can be selected out of both options. Text Analysis will analysis the ticket, it will display polarity and subjectivity of freshdesk ticket and it will analyze the sentiment of ticket. Based on polarity and subjectivity it will try to predict the rating which customer may rate. It will try to predict the rating out of three customer choices good, average and poor. Also if we mark option 'Fetch Ticket Details' then it will fetch all the ticket details about the ticket which we want to analyze from freshdesk api. 
