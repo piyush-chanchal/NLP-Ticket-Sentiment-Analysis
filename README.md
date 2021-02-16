@@ -9,9 +9,10 @@
 
 ### Programming languages and Library
 1. Python
-2. Tkinter
-3. TextBlob
-4. NLTK 
+2. Tkinter Library
+3. TextBlob Library
+4. NLTK Library
+5. Pandas Library
 
 <b>MENU OPTIONS</b>:- Below are some available menu options -
  1. <b>FILE</b> - There is only one option 'Exit' under File Menu. This option will close the application.
