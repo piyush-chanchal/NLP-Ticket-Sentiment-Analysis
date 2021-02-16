@@ -9,7 +9,7 @@
 
 ### Programming languages and Library
 1. Python
-2. Tkinter Library
+2. TKinter Library
 3. TextBlob Library
 4. NLTK Library
 5. Pandas Library
