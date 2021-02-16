@@ -7,7 +7,7 @@
 <b>After Running</b> -
 ![Main Window](./images/ScreenshotMainRun.PNG "Main Window")
 
-### Programming languages and Tools
+### Programming languages and Library
 1. Python
 2. Tkinter
 3. TextBlob
